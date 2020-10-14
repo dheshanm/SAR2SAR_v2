@@ -1,0 +1,1 @@
+This folder will contain the '.npy' files that need to be fed into the SAR2SAR model

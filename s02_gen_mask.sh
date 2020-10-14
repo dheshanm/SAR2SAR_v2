@@ -1,0 +1,1 @@
+python3 mask_generator.py

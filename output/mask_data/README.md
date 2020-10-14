@@ -1,0 +1,1 @@
+This folder will contain the masks generated, to remove the artefacts created by the model

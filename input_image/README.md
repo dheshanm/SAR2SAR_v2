@@ -1,0 +1,1 @@
+Place SAR images that need to be despeckled here, and run the batch file or check 'Batch File' the '00_Preprocess.ipynb'

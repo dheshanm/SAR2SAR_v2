@@ -1,0 +1,1 @@
+This directory will contain the Images before it was processed by the model.

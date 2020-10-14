@@ -1,0 +1,1 @@
+python3 preprocess.py --test_data="$PWD/test_data" --img_dir="$PWD/test_img"

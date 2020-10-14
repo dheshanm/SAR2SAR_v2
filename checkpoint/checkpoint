@@ -1,0 +1,2 @@
+model_checkpoint_path: "SAR2SAR-tensorflow-98550"
+all_model_checkpoint_paths: "SAR2SAR-tensorflow-98550"

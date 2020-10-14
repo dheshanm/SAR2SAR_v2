@@ -1,0 +1,1 @@
+This directory will contain inpainted images, after the execution of 'inpaint.py' or related .pynb files.
