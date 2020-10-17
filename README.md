@@ -1,5 +1,5 @@
 # SAR2SAR: a self-supervised despeckling algorithm for SAR images
-Based on the work of Emanuele Dalsasso, Loïc Denis, Florence Tupin
+Based on the work of Emanuele Dalsasso, Loïc Denis, Florence Tupin. [Link to Repo](https://github.com/emanueledalsasso/SAR2SAR)
 
 The code is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom ParisTech, an Institut Mines Télécom school.
 All rights reserved.
